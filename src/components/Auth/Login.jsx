@@ -76,7 +76,7 @@ function Login({ handleLogin }) {
             <p className="text-sm">Password: 123</p>
           </div>
 
-          <div className="w-1/2 text-center">
+          <div className="w-1/2 text-center mr-2">
             <h2 className="text-lg text-amber-500 mb-2">Employee Login Details</h2>
             <p className="text-sm">e@e.com</p>
             <p className="text-sm">employee2@example.com</p>
