@@ -80,7 +80,7 @@ function AdminDashboard({ changeUser }) {
         </div>
         <button
           onClick={handleLogout}
-          className="h-8 font-semibold px-4 bg-gradient-to-r from-red-500 to-red-600 text-white text-sm lg:text-base rounded-lg hover:scale-105 transform transition-all"
+          className="h-10 font-semibold px-4 bg-gradient-to-r from-red-500 to-red-600 text-white text-sm lg:text-base rounded-lg hover:scale-105 transform transition-all"
         >
           Log out
         </button>
